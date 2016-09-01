@@ -1,0 +1,8 @@
+<phpunit bootstrap="../src/Coordinate.php">
+   <testsuites>
+     <testsuite name="CoordinateTestSuite">
+       <directory suffix='.php'>./</directory>
+       <!--file>tests/CoordinateTest.php</file-->
+     </testsuite>
+</testsuites>
+</phpunit>

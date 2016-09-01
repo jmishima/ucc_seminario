@@ -1,0 +1,9 @@
+{
+  "require": {
+    "sebastian/money": "dev-master"
+  },
+
+  "autoload": {
+    "classmap": [ "src/" ]
+  }
+}
